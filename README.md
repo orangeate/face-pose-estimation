@@ -8,7 +8,11 @@ This work is used to find frontal human faces in an image and estimate their pos
 
 You can download a trained facial shape predictor from  http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
-![image](./image/image.jpg)
+<p align="center">
+  <img src="./image/image.jpg" width="1000px">
+</p>
+
+
 
 ## References
 
