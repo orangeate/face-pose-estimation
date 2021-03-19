@@ -146,4 +146,4 @@ if __name__ == '__main__':
 
     bbox = model.get_bbox(show = True)
     landmark = model.get_landmark(show = True)
-    pose = model.pose_estimation(show = True)()
+    pose = model.pose_estimation(show = True)
